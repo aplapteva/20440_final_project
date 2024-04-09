@@ -1,5 +1,5 @@
-# Problem Set 6: Reproducible, shareable code
-## Anna Lapteva  $\text{ }\mid\mid\text{ }$   April 5, 2024
+# Comorbidity and exclusion of neurological disorders predicted by human gastrointestinal microbiome compositions.
+## Allison Glynn and Anna Lapteva  $\text{ }\mid\mid\text{ }$   April 10, 2024
 
 ### Overview.
 This repository contains the code, data, and figures for the project titled "Comorbidity and exclusion of neurological disorders predicted by human gastrointestinal microbiome compositions". As of April 5, 2024, the repository includes the necessary materials to generate SVGs of two reduced dimension plots of microbial relative abundance data for a set of six neurological/neurodevelopmental disorders (Austism Spectrum Disorder (ASD), Alzheimer's Disease (AD), Parkinson's Disease (PD), Multiple Sclerosis (MS), and epilepsy). The dimension reduction algorithm used is Uniform Manifold Approximation and Projection (UMAP), which is appropriate for visualization and general non-linear dimension reduction. The documentation used for implementing UMAP in Python can be found [here](https://umap-learn.readthedocs.io/en/latest/index.html).
