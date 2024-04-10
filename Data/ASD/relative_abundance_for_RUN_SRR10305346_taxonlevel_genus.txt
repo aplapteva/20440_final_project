@@ -1,0 +1,15 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	4.15089	Bifidobacterium
+978	1.76693	Cytophaga
+239759	0.0701164	Alistipes
+283168	0.224372	Odoribacter
+1301	2.29982	Streptococcus
+841	11.3308	Roseburia
+580596	2.412	Butyricicoccus
+216851	4.22101	Faecalibacterium
+151037	1.76693	Anaerosinus
+970	0.238396	Selenomonas
+-1	75.4172	Unknown
+816	9.45169	Bacteroides
+1263	9.40962	Ruminococcus
+1485	14.9488	Clostridium

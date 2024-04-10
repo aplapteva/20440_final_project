@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	2.01179	Bifidobacterium
+239759	0.0467858	Alistipes
+117563	0.056143	Granulicatella
+1301	0.449144	Streptococcus
+1185408	0.851502	Defluviitalea
+420345	2.30186	Lactonifactor
+841	3.89258	Roseburia
+580596	1.75915	Butyricicoccus
+216851	1.834	Faecalibacterium
+204475	0.739216	Gemmiger
+78119	1.47843	Succinispira
+118747	0.0280715	Bulleidia
+-1	45.7565	Unknown
+816	46.449	Bacteroides
+1263	5.56751	Ruminococcus
+1485	9.65659	Clostridium

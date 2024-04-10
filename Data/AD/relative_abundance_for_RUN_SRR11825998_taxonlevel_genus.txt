@@ -1,0 +1,10 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+84111	0.0578503	Eggerthella
+46123	0.0462802	Abiotrophia
+1301	0.0462802	Streptococcus
+189330	0.775194	Dorea
+292632	0.538008	Subdoligranulum
+239934	70.641	Akkermansia
+-1	47.2058	Unknown
+1263	0.190906	Ruminococcus
+1485	4.10158	Clostridium

@@ -1,0 +1,10 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	2.58681	Bifidobacterium
+84111	0.665068	Eggerthella
+816	0.0502668	Bacteroides
+1578	1.1252	Lactobacillus
+1301	9.87163	Streptococcus
+572511	74.6385	Blautia
+33042	3.13587	Coprococcus
+189330	0.746269	Dorea
+-1	14.3608	Unknown

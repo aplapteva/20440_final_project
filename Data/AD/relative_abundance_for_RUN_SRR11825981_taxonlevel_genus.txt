@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1654	0.0608299	Actinomyces
+264147	0.0347599	Millisia
+84111	0.308494	Eggerthella
+133925	0.0651749	Olsenella
+156973	0.01738	Dysgonomonas
+239759	0.0564849	Alistipes
+1301	0.178145	Streptococcus
+990721	0.395394	Christensenella
+292632	0.725614	Subdoligranulum
+151037	0.0564849	Anaerosinus
+150022	0.221595	Finegoldia
+239934	81.5555	Akkermansia
+-1	32.1182	Unknown
+816	0.0477949	Bacteroides
+1263	0.0304149	Ruminococcus
+1485	0.186835	Clostridium

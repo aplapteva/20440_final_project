@@ -1,0 +1,13 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	3.41171	Bifidobacterium
+1185408	0.253573	Defluviitalea
+420345	0.783771	Lactonifactor
+580596	2.53573	Butyricicoccus
+216851	27.7317	Faecalibacterium
+204475	2.53573	Gemmiger
+151037	0.299677	Anaerosinus
+970	1.86722	Selenomonas
+-1	37.8515	Unknown
+816	31.3739	Bacteroides
+1263	3.29645	Ruminococcus
+1485	6.98479	Clostridium

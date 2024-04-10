@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	2.42265	Bifidobacterium
+239759	1.5178	Alistipes
+283168	0.437828	Odoribacter
+830	0.00972952	Butyrivibrio
+189330	1.45943	Dorea
+420345	1.62483	Lactonifactor
+841	7.29714	Roseburia
+580596	2.15022	Butyricicoccus
+216851	1.73185	Faecalibacterium
+204475	1.43024	Gemmiger
+872	0.20432	Desulfovibrio
+574899	0.350263	Haloferula
+-1	94.2012	Unknown
+816	6.11987	Bacteroides
+1263	10.3133	Ruminococcus
+1485	15.8299	Clostridium

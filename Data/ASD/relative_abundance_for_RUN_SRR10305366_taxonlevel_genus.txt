@@ -1,0 +1,13 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+189330	0.739907	Dorea
+420345	0.916841	Lactonifactor
+841	5.71015	Roseburia
+580596	0.675567	Butyricicoccus
+216851	5.19543	Faecalibacterium
+204475	0.707737	Gemmiger
+292632	0.289529	Subdoligranulum
+872	1.01335	Desulfovibrio
+-1	74.2802	Unknown
+816	22.6315	Bacteroides
+1263	8.12289	Ruminococcus
+1485	16.857	Clostridium

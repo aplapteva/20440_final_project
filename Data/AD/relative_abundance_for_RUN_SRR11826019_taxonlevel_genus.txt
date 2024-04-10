@@ -1,0 +1,14 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+32207	0.0537181	Rothia
+1678	18.8167	Bifidobacterium
+1380	0.107436	Atopobium
+838	0.107436	Prevotella
+1301	0.966925	Streptococcus
+189330	11.5187	Dorea
+151037	29.3915	Anaerosinus
+78119	0.790423	Succinispira
+239934	0.0690661	Akkermansia
+-1	58.3378	Unknown
+816	2.30988	Bacteroides
+1263	0.828793	Ruminococcus
+1485	5.87062	Clostridium

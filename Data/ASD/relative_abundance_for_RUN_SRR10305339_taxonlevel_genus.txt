@@ -1,0 +1,16 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+32207	0.070502	Rothia
+1678	1.72025	Bifidobacterium
+838	0.324309	Prevotella
+1301	31.6272	Streptococcus
+189330	3.97631	Dorea
+420345	2.93288	Lactonifactor
+841	2.22786	Roseburia
+580596	0.451213	Butyricicoccus
+216851	5.00564	Faecalibacterium
+44748	0.310209	Sporobacter
+151037	0.239707	Anaerosinus
+-1	37.8173	Unknown
+816	20.3328	Bacteroides
+1263	2.98928	Ruminococcus
+1485	8.88325	Clostridium

@@ -1,0 +1,12 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+2172	0.0186012	Methanobrevibacter
+1716	10.3795	Corynebacterium
+1678	0.353423	Bifidobacterium
+1279	0.117808	Staphylococcus
+46123	0.613839	Abiotrophia
+1301	0.0682044	Streptococcus
+449972	0.062004	Chelativorans
+2745	0.266617	Halomonas
+239934	0.0372024	Akkermansia
+-1	176.066	Unknown
+1350	0.0496032	Enterococcus

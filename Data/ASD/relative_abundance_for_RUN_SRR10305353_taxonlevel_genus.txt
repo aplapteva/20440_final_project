@@ -1,0 +1,15 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.730816	Bifidobacterium
+84111	0.548112	Eggerthella
+838	47.2442	Prevotella
+239759	2.48173	Alistipes
+1301	0.167479	Streptococcus
+189330	0.68514	Dorea
+580596	1.72046	Butyricicoccus
+216851	3.59318	Faecalibacterium
+204475	1.29415	Gemmiger
+970	2.1011	Selenomonas
+-1	42.1742	Unknown
+816	9.75944	Bacteroides
+1263	7.04933	Ruminococcus
+1485	1.53776	Clostridium

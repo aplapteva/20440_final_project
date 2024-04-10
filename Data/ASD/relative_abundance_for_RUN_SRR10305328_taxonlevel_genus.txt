@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.279831	Bifidobacterium
+84111	0.0215254	Eggerthella
+397864	0.538136	Barnesiella
+1301	0.452034	Streptococcus
+1185408	0.050226	Defluviitalea
+189330	0.932769	Dorea
+841	2.60458	Roseburia
+216851	3.23599	Faecalibacterium
+78119	3.32927	Succinispira
+118966	0.0645763	Anaerorhabdus
+872	1.0978	Desulfovibrio
+574899	0.0287006	Haloferula
+-1	27.9687	Unknown
+816	62.9045	Bacteroides
+1263	4.56339	Ruminococcus
+1485	5.91232	Clostridium

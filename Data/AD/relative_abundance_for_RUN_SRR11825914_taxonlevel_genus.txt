@@ -1,0 +1,11 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	94.5802	Bifidobacterium
+1301	0.0792362	Streptococcus
+189330	1.14892	Dorea
+204475	0.0396181	Gemmiger
+151037	0.158472	Anaerosinus
+970	1.39852	Selenomonas
+2745	0.0277327	Halomonas
+-1	3.98558	Unknown
+1263	0.534844	Ruminococcus
+1485	0.0396181	Clostridium

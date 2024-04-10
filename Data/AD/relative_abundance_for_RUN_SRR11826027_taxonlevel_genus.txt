@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	20.9422	Bifidobacterium
+102106	0.812651	Collinsella
+239759	0.0768724	Alistipes
+1301	0.0219635	Streptococcus
+189330	1.03229	Dorea
+28050	0.439271	Lachnospira
+420345	0.296508	Lactonifactor
+580596	1.58137	Butyricicoccus
+216851	28.0145	Faecalibacterium
+292632	0.30749	Subdoligranulum
+151037	0.120799	Anaerosinus
+78119	1.1421	Succinispira
+-1	33.1649	Unknown
+816	11.443	Bacteroides
+1263	15.1109	Ruminococcus
+1485	2.07555	Clostridium

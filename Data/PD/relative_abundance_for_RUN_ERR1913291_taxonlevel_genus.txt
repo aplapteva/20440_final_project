@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+816	53.4938	Bacteroides
+1730	9.32375	Eubacterium
+292632	8.72466	Subdoligranulum
+239759	7.90578	Alistipes
+216851	6.98918	Faecalibacterium
+375288	3.47963	Parabacteroides
+40544	2.31151	Sutterella
+397864	2.24433	Barnesiella
+841	1.63012	Roseburia
+186928	0.97646	unclassified_Lachnospiraceae
+572511	0.88431	Blautia
+239934	0.5724	Akkermansia
+35832	0.50047	Bilophila
+459786	0.49549	Oscillibacter
+1678	0.04124	Bifidobacterium
+-1	0.4269	Unknown

@@ -1,0 +1,12 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	90.3033	Bifidobacterium
+102106	0.254718	Collinsella
+133925	3.46764	Olsenella
+1159323	0.115781	Macellibacteroides
+239759	0.0752576	Alistipes
+1578	0.85099	Lactobacillus
+189330	0.0347343	Dorea
+216851	0.0463124	Faecalibacterium
+970	0.156304	Selenomonas
+-1	7.36367	Unknown
+816	1.01308	Bacteroides

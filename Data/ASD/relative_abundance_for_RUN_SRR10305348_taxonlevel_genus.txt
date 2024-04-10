@@ -1,0 +1,13 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.872483	Bifidobacterium
+978	1.29434	Cytophaga
+1159323	0.325983	Macellibacteroides
+239759	0.0958773	Alistipes
+189330	0.977948	Dorea
+580596	0.479386	Butyricicoccus
+216851	3.54746	Faecalibacterium
+78119	1.93672	Succinispira
+-1	22.9338	Unknown
+816	75.8869	Bacteroides
+1263	1.18888	Ruminococcus
+1485	1.92713	Clostridium

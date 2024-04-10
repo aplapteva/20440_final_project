@@ -1,0 +1,16 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	10.6803	Bifidobacterium
+1350	0.0680272	Enterococcus
+239759	0.170068	Alistipes
+1386	0.170068	Bacillus
+46123	0.136054	Abiotrophia
+1301	2.56803	Streptococcus
+189330	1.51361	Dorea
+841	2.87415	Roseburia
+580596	3.82653	Butyricicoccus
+216851	15.051	Faecalibacterium
+44748	0.119048	Sporobacter
+-1	78.8775	Unknown
+816	2.63605	Bacteroides
+1263	9.84694	Ruminococcus
+1485	10.9014	Clostridium

@@ -1,0 +1,13 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+397864	0.059952	Barnesiella
+1301	1.19904	Streptococcus
+189330	2.45803	Dorea
+420345	0.851319	Lactonifactor
+580596	1.15108	Butyricicoccus
+216851	0.311751	Faecalibacterium
+151037	3.1295	Anaerosinus
+78119	1.97842	Succinispira
+-1	36.187	Unknown
+816	52.7578	Bacteroides
+1263	3.88489	Ruminococcus
+1485	14.1247	Clostridium

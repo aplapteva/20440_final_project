@@ -1,0 +1,16 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	2.0556	Bifidobacterium
+838	0.117158	Prevotella
+1301	0.223666	Streptococcus
+1185408	1.04377	Defluviitalea
+189330	2.82245	Dorea
+420345	2.21536	Lactonifactor
+841	2.43902	Roseburia
+580596	2.99286	Butyricicoccus
+216851	2.24731	Faecalibacterium
+204475	1.85323	Gemmiger
+151037	1.74672	Anaerosinus
+-1	47.2681	Unknown
+816	37.8741	Bacteroides
+1263	0.330174	Ruminococcus
+1485	18.4045	Clostridium

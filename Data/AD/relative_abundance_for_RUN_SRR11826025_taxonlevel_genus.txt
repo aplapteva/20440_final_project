@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1654	0.539975	Actinomyces
+1663	0.0220398	Arthrobacter
+1678	45.132	Bifidobacterium
+84111	1.30035	Eggerthella
+1386	0.0716293	Bacillus
+46255	0.0275497	Weissella
+1301	0.281007	Streptococcus
+189330	2.96435	Dorea
+244127	0.0165298	Anaerotruncus
+118747	0.099179	Bulleidia
+449972	0.0275497	Chelativorans
+2745	0.115709	Halomonas
+239934	3.22883	Akkermansia
+-1	58.174	Unknown
+1263	13.3616	Ruminococcus
+1485	3.72472	Clostridium
