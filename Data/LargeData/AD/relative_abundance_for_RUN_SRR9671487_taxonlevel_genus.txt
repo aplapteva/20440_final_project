@@ -1,0 +1,10 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+32207	1.05326	Rothia
+1159323	0.207684	Macellibacteroides
+1253	2.0175	Pediococcus
+1301	1.64664	Streptococcus
+222991	0.712061	Alkanindiges
+-1	170.064	Unknown
+286	0.163181	Pseudomonas
+816	8.11452	Bacteroides
+1485	1.05326	Clostridium

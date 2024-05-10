@@ -1,0 +1,8 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	2.3807	Bifidobacterium
+1578	72.5582	Lactobacillus
+1253	0.828993	Pediococcus
+1301	0.0956531	Streptococcus
+970	5.84547	Selenomonas
+-1	34.839	Unknown
+1485	0.871506	Clostridium

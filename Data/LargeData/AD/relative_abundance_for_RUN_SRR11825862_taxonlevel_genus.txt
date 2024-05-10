@@ -1,0 +1,12 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	57.6566	Bifidobacterium
+102106	5.06191	Collinsella
+1243	1.1016	Leuconostoc
+1301	0.100146	Streptococcus
+990721	0.0728332	Christensenella
+189330	1.02877	Dorea
+841	0.48252	Roseburia
+-1	25.9286	Unknown
+816	0.418791	Bacteroides
+1263	19.2189	Ruminococcus
+1485	1.89366	Clostridium

@@ -1,0 +1,16 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	17.638	Bifidobacterium
+102106	1.58787	Collinsella
+1578	1.54276	Lactobacillus
+1301	0.324793	Streptococcus
+189330	0.721761	Dorea
+841	9.5904	Roseburia
+204475	39.2818	Gemmiger
+44748	0.0992422	Sporobacter
+292632	0.342837	Subdoligranulum
+970	0.351859	Selenomonas
+100883	0.0721761	Coprobacillus
+239934	0.0631541	Akkermansia
+-1	22.6092	Unknown
+1263	16.3479	Ruminococcus
+1485	0.730783	Clostridium

@@ -1,0 +1,15 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	1.5873	Bifidobacterium
+816	33.4014	Bacteroides
+375288	1.08844	Parabacteroides
+574697	0.544218	Butyricimonas
+283168	0.544218	Odoribacter
+1350	0.181406	Enterococcus
+990721	0.181406	Christensenella
+33042	0.657596	Coprococcus
+216851	23.0612	Faecalibacterium
+204475	0.929705	Gemmiger
+119852	4.87528	Oscillospira
+-1	51.746	Unknown
+1263	5.57823	Ruminococcus
+1485	1.4966	Clostridium

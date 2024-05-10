@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	7.4381	Bifidobacterium
+1159323	1.26797	Macellibacteroides
+838	1.16813	Prevotella
+1386	0.119808	Bacillus
+117563	0.319489	Granulicatella
+1301	5.15176	Streptococcus
+216851	3.1849	Faecalibacterium
+204475	12.3403	Gemmiger
+118747	0.139776	Bulleidia
+1073	0.0499201	Rhodopseudomonas
+222991	0.289537	Alkanindiges
+-1	77.5958	Unknown
+286	0.0898562	Pseudomonas
+816	4.25319	Bacteroides
+1263	20.8466	Ruminococcus
+1485	4.54273	Clostridium

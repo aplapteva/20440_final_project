@@ -1,0 +1,14 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+32207	2.06612	Rothia
+1678	1.81818	Bifidobacterium
+84111	0.289256	Eggerthella
+838	4.58678	Prevotella
+189330	6.19835	Dorea
+841	2.56198	Roseburia
+580596	3.67769	Butyricicoccus
+216851	9.29752	Faecalibacterium
+204475	7.35537	Gemmiger
+-1	39.5041	Unknown
+816	2.02479	Bacteroides
+1263	31.9835	Ruminococcus
+1485	8.38843	Clostridium

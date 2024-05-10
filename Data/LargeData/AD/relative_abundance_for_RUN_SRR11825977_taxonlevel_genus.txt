@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1663	0.0192691	Arthrobacter
+1678	0.61661	Bifidobacterium
+102106	0.0385381	Collinsella
+84111	0.590918	Eggerthella
+1578	6.17895	Lactobacillus
+1243	0.0256921	Leuconostoc
+1301	1.24607	Streptococcus
+264995	0.0449611	Anaerofustis
+189330	1.74064	Dorea
+118747	0.0256921	Bulleidia
+2745	0.0642302	Halomonas
+239934	1.97829	Akkermansia
+-1	141.872	Unknown
+1263	1.73422	Ruminococcus
+1350	0.0256921	Enterococcus
+1485	14.7344	Clostridium

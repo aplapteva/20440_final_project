@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	29.4205	Bifidobacterium
+102106	0.191561	Collinsella
+978	0.122386	Cytophaga
+239759	4.18773	Alistipes
+397864	0.548076	Barnesiella
+1301	0.0478902	Streptococcus
+189330	1.88368	Dorea
+580596	0.180918	Butyricicoccus
+292632	1.26643	Subdoligranulum
+151037	0.441654	Anaerosinus
+872	0.505507	Desulfovibrio
+239934	0.207524	Akkermansia
+-1	61.8422	Unknown
+816	26.9888	Bacteroides
+1263	1.06423	Ruminococcus
+1485	2.02203	Clostridium

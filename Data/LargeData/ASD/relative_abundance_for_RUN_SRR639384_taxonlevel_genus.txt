@@ -1,0 +1,16 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	4.49871	Bifidobacterium
+816	37.982	Bacteroides
+375288	7.74422	Parabacteroides
+117563	0.128535	Granulicatella
+1350	3.85604	Enterococcus
+1301	6.13753	Streptococcus
+572511	0.289203	Blautia
+33042	2.69923	Coprococcus
+216851	6.6838	Faecalibacterium
+119852	2.31362	Oscillospira
+162289	0.385604	Peptoniphilus
+239934	5.20566	Akkermansia
+-1	32.1337	Unknown
+1263	2.24936	Ruminococcus
+1485	3.75964	Clostridium

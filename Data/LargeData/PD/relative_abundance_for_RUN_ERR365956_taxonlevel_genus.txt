@@ -1,0 +1,15 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+816	26.6772	Bacteroides
+375288	1.30709	Parabacteroides
+239759	0.834646	Alistipes
+207244	0.440945	Anaerostipes
+572511	0.251969	Blautia
+33042	0.220472	Coprococcus
+119852	7.41732	Oscillospira
+33024	5.84252	Phascolarctobacterium
+61170	0.503937	Holdemania
+172900	0.0629921	Victivallis
+40544	1.2126	Sutterella
+-1	79.2441	Unknown
+1263	13.4173	Ruminococcus
+1485	2.18898	Clostridium

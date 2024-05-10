@@ -1,0 +1,11 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1654	0.162115	Actinomyces
+1678	72.403	Bifidobacterium
+102106	16.1117	Collinsella
+1578	3.15501	Lactobacillus
+1301	3.21736	Streptococcus
+189330	0.149645	Dorea
+970	0.0748223	Selenomonas
+-1	6.90859	Unknown
+1263	1.17222	Ruminococcus
+1485	0.0997631	Clostridium

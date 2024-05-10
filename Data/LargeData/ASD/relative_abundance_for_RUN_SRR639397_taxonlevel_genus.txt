@@ -1,0 +1,13 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.804163	Bifidobacterium
+816	68.614	Bacteroides
+1350	0.993378	Enterococcus
+1301	0.473037	Streptococcus
+2383	0.189215	Epulopiscium
+119852	9.81552	Oscillospira
+100883	0.709555	Coprobacillus
+40544	0.118259	Sutterella
+239934	1.41911	Akkermansia
+-1	20.8609	Unknown
+1263	4.13907	Ruminococcus
+1485	2.29423	Clostridium

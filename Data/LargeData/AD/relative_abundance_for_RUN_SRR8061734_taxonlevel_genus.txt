@@ -1,0 +1,14 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1159323	1.17371	Macellibacteroides
+838	6.33803	Prevotella
+239759	4.53834	Alistipes
+397864	1.3302	Barnesiella
+189330	2.8169	Dorea
+841	6.33803	Roseburia
+580596	1.56495	Butyricicoccus
+216851	6.10329	Faecalibacterium
+204475	2.19092	Gemmiger
+-1	40.5321	Unknown
+816	27.7778	Bacteroides
+1263	14.9452	Ruminococcus
+1485	4.61659	Clostridium

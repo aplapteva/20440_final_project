@@ -1,0 +1,14 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.365943	Bifidobacterium
+84111	0.975848	Eggerthella
+651554	0.829471	Paraeggerthella
+397864	0.121981	Barnesiella
+189330	2.22005	Dorea
+841	3.90339	Roseburia
+580596	1.21981	Butyricicoccus
+216851	6.68456	Faecalibacterium
+292632	0.390339	Subdoligranulum
+-1	67.675	Unknown
+816	18.2484	Bacteroides
+1263	28.1288	Ruminococcus
+1485	3.07392	Clostridium

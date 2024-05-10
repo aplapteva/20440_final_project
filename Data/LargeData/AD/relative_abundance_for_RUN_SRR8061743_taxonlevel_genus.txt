@@ -1,0 +1,15 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	1.60372	Bifidobacterium
+1380	0.569064	Atopobium
+651554	5.22504	Paraeggerthella
+838	0.67253	Prevotella
+189330	10.4501	Dorea
+420345	1.13813	Lactonifactor
+841	4.96637	Roseburia
+580596	5.89757	Butyricicoccus
+216851	8.01862	Faecalibacterium
+204475	7.70823	Gemmiger
+-1	42.1107	Unknown
+816	0.413864	Bacteroides
+1263	23.2799	Ruminococcus
+1485	9.00155	Clostridium

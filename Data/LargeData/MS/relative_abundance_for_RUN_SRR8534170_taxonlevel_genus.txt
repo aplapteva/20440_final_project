@@ -1,0 +1,15 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	3.77731	Bifidobacterium
+102106	0.366704	Collinsella
+84111	0.294902	Eggerthella
+84108	0.0820597	Slackia
+816	0.356447	Bacteroides
+1357	0.171812	Lactococcus
+1301	4.02349	Streptococcus
+264995	0.0076931	Anaerofustis
+572511	78.0901	Blautia
+33042	3.43881	Coprococcus
+189330	1.88994	Dorea
+118747	0.0076931	Bulleidia
+-1	14.7707	Unknown
+1485	0.107703	Clostridium

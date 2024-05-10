@@ -1,0 +1,13 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.325052	Bifidobacterium
+239759	0.34827	Alistipes
+189330	1.32343	Dorea
+420345	0.441142	Lactonifactor
+841	14.697	Roseburia
+580596	1.74135	Butyricicoccus
+216851	9.6587	Faecalibacterium
+204475	4.69004	Gemmiger
+-1	40.26	Unknown
+816	21.5928	Bacteroides
+1263	9.75157	Ruminococcus
+1485	15.3007	Clostridium

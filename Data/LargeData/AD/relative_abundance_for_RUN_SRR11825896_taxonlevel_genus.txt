@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.19073	Bifidobacterium
+1159323	0.677093	Macellibacteroides
+239759	0.0858287	Alistipes
+420345	0.104902	Lactonifactor
+841	2.31738	Roseburia
+216851	1.26836	Faecalibacterium
+292632	4.46309	Subdoligranulum
+970	0.21934	Selenomonas
+100883	0.104902	Coprobacillus
+61170	0.0476826	Holdemania
+239934	17.8714	Akkermansia
+574899	0.553118	Haloferula
+-1	109.88	Unknown
+816	9.02155	Bacteroides
+1263	3.91951	Ruminococcus
+1485	4.21514	Clostridium

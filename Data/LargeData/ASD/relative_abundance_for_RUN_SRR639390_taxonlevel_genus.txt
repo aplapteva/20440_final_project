@@ -1,0 +1,12 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	3.00624	Bifidobacterium
+816	64.0008	Bacteroides
+375288	2.53356	Parabacteroides
+33042	0.491586	Coprococcus
+216851	15.069	Faecalibacterium
+119852	4.2163	Oscillospira
+33024	4.89696	Phascolarctobacterium
+40544	0.0756287	Sutterella
+-1	8.24352	Unknown
+1263	0.378143	Ruminococcus
+1485	1.21006	Clostridium

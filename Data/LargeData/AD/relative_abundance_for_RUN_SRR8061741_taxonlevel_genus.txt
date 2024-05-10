@@ -1,0 +1,14 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.505902	Bifidobacterium
+84111	0.421585	Eggerthella
+1159323	1.34907	Macellibacteroides
+838	0.19674	Prevotella
+189330	1.12423	Dorea
+420345	1.40528	Lactonifactor
+580596	4.91849	Butyricicoccus
+216851	12.5632	Faecalibacterium
+204475	1.40528	Gemmiger
+-1	60.7645	Unknown
+816	21.4446	Bacteroides
+1263	16.8915	Ruminococcus
+1485	7.39179	Clostridium

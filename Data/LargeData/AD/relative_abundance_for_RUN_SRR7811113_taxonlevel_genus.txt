@@ -1,0 +1,15 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.0529714	Bifidobacterium
+84111	0.145671	Eggerthella
+651554	0.0364178	Paraeggerthella
+117563	0.0198643	Granulicatella
+1301	0.205264	Streptococcus
+189330	0.999834	Dorea
+580596	0.109253	Butyricicoccus
+100175	0.119186	Papillibacter
+78119	0.288032	Succinispira
+620	0.592617	Shigella
+-1	169.561	Unknown
+816	7.77024	Bacteroides
+1263	4.50919	Ruminococcus
+1485	0.3708	Clostridium

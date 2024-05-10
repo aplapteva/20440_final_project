@@ -1,0 +1,12 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.73716	Bifidobacterium
+102106	0.0845921	Collinsella
+46255	0.0785498	Weissella
+189330	0.338369	Dorea
+216851	0.0664653	Faecalibacterium
+151037	0.0845921	Anaerosinus
+239934	43.281	Akkermansia
+574899	0.0725076	Haloferula
+-1	109.293	Unknown
+1263	0.0181269	Ruminococcus
+1485	0.592145	Clostridium

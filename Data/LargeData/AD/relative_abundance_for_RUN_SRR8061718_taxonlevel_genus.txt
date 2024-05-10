@@ -1,0 +1,8 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	28.2095	Bifidobacterium
+189330	1.85811	Dorea
+216851	11.2331	Faecalibacterium
+-1	73.6487	Unknown
+816	1.35135	Bacteroides
+1263	13.7669	Ruminococcus
+1485	6.75676	Clostridium

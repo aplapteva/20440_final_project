@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.459706	Bifidobacterium
+447020	0.156718	Adlercreutzia
+102106	7.09062	Collinsella
+84108	1.83186	Slackia
+1243	0.14627	Leuconostoc
+1357	0.459706	Lactococcus
+1301	2.99854	Streptococcus
+990721	0.0174131	Christensenella
+264995	0.0487567	Anaerofustis
+572511	40.2173	Blautia
+33042	10.6708	Coprococcus
+189330	2.55973	Dorea
+841	0.372641	Roseburia
+216851	9.71651	Faecalibacterium
+-1	45.093	Unknown
+1263	0.706972	Ruminococcus

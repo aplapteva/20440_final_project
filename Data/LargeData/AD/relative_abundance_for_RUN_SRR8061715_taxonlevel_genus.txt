@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	12.7199	Bifidobacterium
+102106	0.314502	Collinsella
+84111	0.244613	Eggerthella
+133925	0.885265	Olsenella
+838	2.21316	Prevotella
+1253	0.232964	Pediococcus
+1301	0.430984	Streptococcus
+189330	0.768783	Dorea
+841	0.675597	Roseburia
+216851	2.6092	Faecalibacterium
+204475	0.966803	Gemmiger
+970	0.570763	Selenomonas
+-1	136.331	Unknown
+816	0.104834	Bacteroides
+1263	5.75422	Ruminococcus
+1485	3.34304	Clostridium

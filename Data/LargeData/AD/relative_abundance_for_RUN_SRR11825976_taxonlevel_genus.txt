@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1654	0.119949	Actinomyces
+1678	23.1313	Bifidobacterium
+84111	0.132576	Eggerthella
+1578	17.7336	Lactobacillus
+1301	0.138889	Streptococcus
+189330	0.0883838	Dorea
+244127	0.227273	Anaerotruncus
+216851	0.22096	Faecalibacterium
+292632	0.700758	Subdoligranulum
+151037	2.22854	Anaerosinus
+970	0.517677	Selenomonas
+162289	0.435606	Peptoniphilus
+-1	92.5379	Unknown
+816	6.42677	Bacteroides
+1263	1.12374	Ruminococcus
+1485	0.50505	Clostridium

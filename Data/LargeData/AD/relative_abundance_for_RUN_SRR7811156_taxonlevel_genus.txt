@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	11.4241	Bifidobacterium
+1159323	1.61618	Macellibacteroides
+375288	0.57259	Parabacteroides
+1301	0.88659	Streptococcus
+189330	2.49354	Dorea
+841	2.42889	Roseburia
+216851	9.16143	Faecalibacterium
+204475	2.9276	Gemmiger
+100175	0.203177	Papillibacter
+44748	1.03436	Sporobacter
+78119	1.8563	Succinispira
+872	0.129294	Desulfovibrio
+-1	34.9649	Unknown
+816	42.2885	Bacteroides
+1263	1.884	Ruminococcus
+1485	3.61101	Clostridium

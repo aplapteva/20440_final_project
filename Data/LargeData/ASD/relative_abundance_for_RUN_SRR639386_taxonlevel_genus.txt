@@ -1,0 +1,17 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+102106	0.249045	Collinsella
+816	20.787	Bacteroides
+375288	5.27976	Parabacteroides
+838	0.348663	Prevotella
+283168	0.481488	Odoribacter
+572511	0.132824	Blautia
+33042	1.32824	Coprococcus
+28050	0.664121	Lachnospira
+841	1.59389	Roseburia
+216851	14.9427	Faecalibacterium
+204475	2.80591	Gemmiger
+119852	16.1547	Oscillospira
+40544	1.37805	Sutterella
+-1	37.4564	Unknown
+1263	9.28109	Ruminococcus
+1485	5.84426	Clostridium

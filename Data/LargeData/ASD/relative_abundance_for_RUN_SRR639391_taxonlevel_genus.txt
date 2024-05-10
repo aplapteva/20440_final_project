@@ -1,0 +1,15 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+816	10.9914	Bacteroides
+375288	4.1054	Parabacteroides
+1301	0.582326	Streptococcus
+572511	10.7002	Blautia
+33042	0.931722	Coprococcus
+841	0.669675	Roseburia
+580596	0.0436745	Butyricicoccus
+216851	27.6314	Faecalibacterium
+204475	4.70229	Gemmiger
+119852	2.11093	Oscillospira
+40544	1.6014	Sutterella
+-1	43.6745	Unknown
+1263	1.32479	Ruminococcus
+1485	12.7675	Clostridium

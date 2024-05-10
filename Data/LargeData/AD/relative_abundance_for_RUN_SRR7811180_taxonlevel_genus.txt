@@ -1,0 +1,14 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	0.045676	Bifidobacterium
+84111	0.213155	Eggerthella
+1301	0.203004	Streptococcus
+420345	0.329882	Lactonifactor
+580596	0.091352	Butyricicoccus
+100175	0.111652	Papillibacter
+78119	0.233455	Succinispira
+620	0.598863	Shigella
+239934	0.812018	Akkermansia
+-1	173.67	Unknown
+816	6.25254	Bacteroides
+1263	3.71498	Ruminococcus
+1485	0.558262	Clostridium

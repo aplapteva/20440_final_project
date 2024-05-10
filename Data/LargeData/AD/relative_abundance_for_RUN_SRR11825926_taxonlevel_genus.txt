@@ -1,0 +1,14 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	49.7017	Bifidobacterium
+102106	2.26685	Collinsella
+1578	3.09207	Lactobacillus
+841	1.00418	Roseburia
+580596	0.178962	Butyricicoccus
+216851	35.0865	Faecalibacterium
+292632	0.0695963	Subdoligranulum
+151037	0.0795387	Anaerosinus
+78119	0.139193	Succinispira
+-1	10.6383	Unknown
+816	0.576655	Bacteroides
+1263	1.25273	Ruminococcus
+1485	1.23285	Clostridium

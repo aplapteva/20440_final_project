@@ -1,0 +1,12 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+816	69.7311	Bacteroides
+375288	6.55433	Parabacteroides
+239759	0.0743402	Alistipes
+283168	0.681452	Odoribacter
+33042	0.0371701	Coprococcus
+216851	5.56313	Faecalibacterium
+119852	2.21782	Oscillospira
+848	0.817743	Fusobacterium
+40544	3.77896	Sutterella
+-1	12.6874	Unknown
+1263	4.20022	Ruminococcus

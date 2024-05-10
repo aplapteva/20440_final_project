@@ -1,0 +1,10 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+1678	13.6636	Bifidobacterium
+102106	0.451977	Collinsella
+216851	0.365059	Faecalibacterium
+204475	76.7319	Gemmiger
+970	0.0782269	Selenomonas
+2745	0.0173837	Halomonas
+239934	2.12082	Akkermansia
+-1	10.2912	Unknown
+1263	1.42547	Ruminococcus

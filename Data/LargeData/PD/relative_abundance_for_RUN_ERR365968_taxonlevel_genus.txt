@@ -1,0 +1,14 @@
+ncbi_taxon_id	relative_abundance	scientific_name
+816	48.6381	Bacteroides
+375288	2.75395	Parabacteroides
+239759	1.68548	Alistipes
+283168	0.752445	Odoribacter
+572511	0.0752445	Blautia
+841	0.511663	Roseburia
+119852	8.89391	Oscillospira
+292632	2.27239	Subdoligranulum
+39948	1.62528	Dialister
+40544	3.68698	Sutterella
+-1	49.9624	Unknown
+1263	1.59518	Ruminococcus
+1485	2.52822	Clostridium
