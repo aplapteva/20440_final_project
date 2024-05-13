@@ -24,14 +24,14 @@ This repository currently contains a total of six items:
 - ***Code***: This folder contains Jupyter notebook files with code for performing clustering and classification
     - "20440_project_data_cleanup.ipynb" contains the code to generate a cleaned CSV file of microbial relative abundance data pooled for all four disorders.
     - "UMAP_code_apl.ipynb" contains code for generating the UMAP clustering.
-    - "paired_analysis_ag.ipynb"
-    - "pooled_analysis_ag.ipynb"
+    - "paired_analysis_ag.ipynb" contains the code used for principal component analysis and RF classification of all paired datasets and for the production of associated figures.
+    - "pooled_analysis_ag.ipynb" contains the code used for principal component analysis and RF classification of the poooled and for the production of associated figures.
 - ***Data***: This folder comprises four subfolders for each disease, a feature importance folder, and a cleaned dataset. 
     - "ASD" contains .txt files with relative microbial genera abundance data from individuals with ASD
     - "AD" contains .txt files with relative microbial genera abundance data from individuals with AD
     - "PD" contains .txt files with relative microbial genera abundance data from individuals with PD
     - "MS" contains .txt files with relative microbial genera abundance data from individuals with MS
-    - "feature_importance"
+    - "feature_importance" containes all features ranked by gini importance extracted from the RF classification of the paired dataset
     - "20440_cleaned_data.csv" is a tidied concatenation of all relevant information in all .txt files
 - ***Figures***: This folder contains SVG images of plots generated for the report.
 - **.gitignore, .gitattributes**: Files used to configure how `git` performs. The ignore file contains file identities that `git` should ignore when committing and pushing. The attributes file allows for the specification of file and path attributes for `git` to use when performing `git` actions.
@@ -44,4 +44,6 @@ All of the code is written in Python in Jupyter, so the user must install Python
 - umap: 0.5.6
 - sklearn: 1.2.2
 - seaborn: 0.12.2
-- 
+- pydotplus: 2.0.2
+- Ipython: 8.20.0
+- mpl_axes_aligner: 1.3
