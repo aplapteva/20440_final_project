@@ -1,11 +1,11 @@
 # Comorbidity and exclusion of neurological disorders predicted by human gastrointestinal microbiome compositions.
-## Allison Glynn and Anna Lapteva  $\text{ }\mid\mid\text{ }$   April 10, 2024
+## Allison Glynn and Anna Lapteva  $\text{ }\mid\mid\text{ }$   May 13, 2024
 
 ### Overview.
-This repository contains the code, data, and figures for the project titled "Comorbidity and exclusion of neurological disorders predicted by human gastrointestinal microbiome compositions". The repository includes the necessary materials for performing clustering of and classification with microbial relative abundance data for a set of five neurological/neurodevelopmental disorders (Austism Spectrum Disorder (ASD), Alzheimer's Disease (AD), Parkinson's Disease (PD), and Multiple Sclerosis (MS)). The dimension reduction algorithms used are Principal Component Analysis and Uniform Manifold Approximation and Projection (UMAP), which is a non-linear dimension reduction algorithm that can be used for cluster visualization. The documentation used for implementing UMAP in Python can be found [here](https://umap-learn.readthedocs.io/en/latest/index.html).
+This repository contains the code, data, and figures for the 20.440 project titled "Comorbidity and exclusion of neurological disorders predicted by human gastrointestinal microbiome compositions". The goal of this project is to identify shared and distinct features of human gut microbiome composition across four neurological disorders: Austism Spectrum Disorder (ASD), Alzheimer's Disease (AD), Parkinson's Disease (PD), and Multiple Sclerosis (MS). This repository includes the necessary materials for creating and tidying a pooled dataset of microbial relative abundance data, performing clustering on pooled and paired datasets, and building a classifier that predicts disease phenotype based on microbial relative abundance profile.
 
 ### Data.
-The data used in this project comes from the [Data Repository for Human Gut Microbiota (GMRepo)](https://gmrepo.humangut.info/home). The paper describing this database can be found [here](https://academic.oup.com/nar/article/50/D1/D777/6426060?login=true). The repository contains metadata manually curated from 71.642 human gut runs/samples from 353 studies/projects. We are interested in sequencing data from human samples, which can tell us about the distribution of genera in the gut microbiome across distinct phenotypes. The advantage of using this curated dataset is that it is annotated and enables grouping by associated projects. However, the database does not allow for the download of all run data together for a particular phenotype. Thus, the following workflow was used to gather the .txt files containing relative abundance of microbial genera. 
+The data used in this project comes from the [Data Repository for Human Gut Microbiota (GMRepo)](https://gmrepo.humangut.info/home), which facilitates reliable comparison of datasets sourced from different studies. The paper describing the creation of this database can be found [here](https://academic.oup.com/nar/article/50/D1/D777/6426060?login=true). As the database does not currently allow for the download of all data simultaneously for a single phenotype within a project, the following workflow was used to gather .txt files containing relative abundance data of microbial genera. 
 
 For each phenotype:
 1. Look up phenotype of interest in the search bar at the top of the [GMRepo home page](https://gmrepo.humangut.info/home).
@@ -17,15 +17,14 @@ For each phenotype:
 7. For each tab, which corresponds to a single run (i.e. one individual's relative abundance data), click "Download relative genus abundance data as tsv". Close the tab and move onto the next tab.
 8. Move all downloaded files into the appropriate folder (e.g. all ASD files are moved into ASD folder).
 
-The above process was repeated for all disorders. 
-
-Examining the downloaded .txt files, we can see that the file begins with some contextual information before providing the relative abundance data. The data is presented in three columns corresponding to NCBI Taxonomy ID, Relative Abundance, and Scientific Name. The purpose of the code in "20440_project_data_cleanup.ipynb" is to take the data in these columns, assign the diagnosis (e.g. AD, MS, etc.), and concatenate it into one large dataset that is suitable for use in performing UMAP dimension reduction.
+The above process was repeated for all four conditions. 
 
 ### Folder Structure and Files.
 This repository currently contains a total of six items:
 - ***Code***: This folder contains Jupyter notebook files with code for performing clustering and classification
     - "20440_project_data_cleanup.ipynb" contains the code to generate a cleaned CSV file of microbial relative abundance data that is saved in the *Data* folder; the contents of this file are explained in the Data section. 
-    - "UMAP_code_apl.ipynb" contains code for generating UMAP figures.
+    - "UMAP_code_apl.ipynb" contains code for generating the UMAP.
+    - 
 - ***Data***: This folder comprises four subfolders (ASD, AD, PD, MS) corresponding to each of the disorders explored in this work. In each subfolder, there are .txt files containing relative microbial genera abundance data from individuals. The *Data* folder also contains a file called "20440_cleaned_data.csv", which is a tidied concatenation of all the relevant information in the .txt files.
 - ***Figures***: This folder contains SVG images of plots generated for the report.
 - **.gitignore, .gitattributes**: Files used to configure how `git` performs. The ignore file contains file identities that `git` should ignore when committing and pushing. The attributes file allows for the specification of file and path attributes for `git` to use when performing `git` actions.
