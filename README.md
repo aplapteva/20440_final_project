@@ -22,10 +22,17 @@ The above process was repeated for all four conditions.
 ### Folder Structure and Files.
 This repository currently contains a total of six items:
 - ***Code***: This folder contains Jupyter notebook files with code for performing clustering and classification
-    - "20440_project_data_cleanup.ipynb" contains the code to generate a cleaned CSV file of microbial relative abundance data that is saved in the *Data* folder; the contents of this file are explained in the Data section. 
-    - "UMAP_code_apl.ipynb" contains code for generating the UMAP.
-    - 
-- ***Data***: This folder comprises four subfolders (ASD, AD, PD, MS) corresponding to each of the disorders explored in this work. In each subfolder, there are .txt files containing relative microbial genera abundance data from individuals. The *Data* folder also contains a file called "20440_cleaned_data.csv", which is a tidied concatenation of all the relevant information in the .txt files.
+    - "20440_project_data_cleanup.ipynb" contains the code to generate a cleaned CSV file of microbial relative abundance data pooled for all four disorders.
+    - "UMAP_code_apl.ipynb" contains code for generating the UMAP clustering.
+    - "paired_analysis_ag.ipynb"
+    - "pooled_analysis_ag.ipynb"
+- ***Data***: This folder comprises four subfolders for each disease, a feature importance folder, and a cleaned dataset. 
+    - "ASD" contains .txt files with relative microbial genera abundance data from individuals with ASD
+    - "AD" contains .txt files with relative microbial genera abundance data from individuals with AD
+    - "PD" contains .txt files with relative microbial genera abundance data from individuals with PD
+    - "MS" contains .txt files with relative microbial genera abundance data from individuals with MS
+    - "feature_importance"
+    - "20440_cleaned_data.csv" is a tidied concatenation of all relevant information in all .txt files
 - ***Figures***: This folder contains SVG images of plots generated for the report.
 - **.gitignore, .gitattributes**: Files used to configure how `git` performs. The ignore file contains file identities that `git` should ignore when committing and pushing. The attributes file allows for the specification of file and path attributes for `git` to use when performing `git` actions.
 
@@ -37,3 +44,4 @@ All of the code is written in Python in Jupyter, so the user must install Python
 - umap: 0.5.6
 - sklearn: 1.2.2
 - seaborn: 0.12.2
+- 
