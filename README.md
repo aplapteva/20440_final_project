@@ -31,7 +31,7 @@ This repository currently contains a total of six items:
     - "AD" contains .txt files with relative microbial genera abundance data from individuals with AD
     - "PD" contains .txt files with relative microbial genera abundance data from individuals with PD
     - "MS" contains .txt files with relative microbial genera abundance data from individuals with MS
-    - "feature_importance" containes all features ranked by gini importance extracted from the RF classification of the paired dataset
+    - "feature_importance" contains all features ranked by gini importance extracted from the RF classification of the paired dataset
     - "20440_cleaned_data.csv" is a tidied concatenation of all relevant information in all .txt files
 - ***Figures***: This folder contains SVG images of plots generated for the report.
 - **.gitignore, .gitattributes**: Files used to configure how `git` performs. The ignore file contains file identities that `git` should ignore when committing and pushing. The attributes file allows for the specification of file and path attributes for `git` to use when performing `git` actions.
